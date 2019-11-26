@@ -27,7 +27,7 @@ const Home = () => (
           <p>Learn about Next.js by following an interactive tutorial!</p>
         </a>
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="https://github.com//next.js/tree/master/examples"
           className="card"
         >
           <h3>Examples &rarr;</h3>
